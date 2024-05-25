@@ -1,0 +1,52 @@
+[33mb91947a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{0}: commit (amend): zmien sekcje luwr (po aktualizacji)
+[33m054b354[m HEAD@{1}: commit: zmien sekcje luwr
+[33m4e2f3c2[m HEAD@{2}: commit: zmien sekcje Lorem ipsum
+[33ma819ce3[m HEAD@{3}: revert: Revert "Reapply "zmien sekcje Lorem ipsum""
+[33m512aeeb[m HEAD@{4}: revert: Reapply "zmien sekcje Lorem ipsum"
+[33m48fb8c8[m HEAD@{5}: revert: Revert "zmien sekcje Lorem ipsum"
+[33m4581938[m HEAD@{6}: commit: zmien sekcje Lorem ipsum
+[33mb00301e[m HEAD@{7}: commit: zmien sekcje Lorem ipsum
+[33m93fa4bb[m HEAD@{8}: revert: Revert "zmien sekcje Lorem ipsum"
+[33mf674c36[m HEAD@{9}: commit: zmien sekcje Lorem ipsum
+[33mcd1da47[m HEAD@{10}: commit: zmien sekcje Lorem ipsum
+[33mbceb979[m[33m ([m[1;31mgithub/main[m[33m)[m HEAD@{11}: checkout: moving from projekt2 to main
+[33mfa02c75[m[33m ([m[1;31morigin/projekt2[m[33m)[m HEAD@{12}: checkout: moving from main to projekt2
+[33mbceb979[m[33m ([m[1;31mgithub/main[m[33m)[m HEAD@{13}: commit: cos
+[33m7b8a06e[m HEAD@{14}: checkout: moving from projekt2 to main
+[33mfa02c75[m[33m ([m[1;31morigin/projekt2[m[33m)[m HEAD@{15}: commit: cc
+[33mef0de70[m HEAD@{16}: checkout: moving from main to projekt2
+[33m7b8a06e[m HEAD@{17}: commit: c
+[33mef0de70[m HEAD@{18}: commit: google
+[33m7be4f09[m HEAD@{19}: commit (merge): konflikt rozwiazany
+[33m77921aa[m HEAD@{20}: reset: moving to HEAD
+[33m77921aa[m HEAD@{21}: commit: dodaj zdjecie na branchu main
+[33m227ac12[m HEAD@{22}: checkout: moving from opera to main
+[33m5ce307a[m[33m ([m[1;32mopera[m[33m)[m HEAD@{23}: commit: dodaj element h3 na branchu opera
+[33m227ac12[m HEAD@{24}: checkout: moving from main to opera
+[33m227ac12[m HEAD@{25}: commit: dodaj pusta sekcje opera
+[33maf4f051[m HEAD@{26}: pull: Merge made by the 'ort' strategy.
+[33m7919726[m HEAD@{27}: revert: Revert "dodaj sekcje wieza eiffla2"
+[33mdb92360[m HEAD@{28}: pull: Fast-forward
+[33m09e17df[m[33m ([m[1;31morigin/master[m[33m)[m HEAD@{29}: checkout: moving from eiffel-tower to main
+[33m3d29866[m[33m ([m[1;32meiffel-tower[m[33m)[m HEAD@{30}: commit: dodaj sekcje wieza eiffla2
+[33mf070216[m HEAD@{31}: commit: dodaj sekcje wieza eiffla
+[33m09e17df[m[33m ([m[1;31morigin/master[m[33m)[m HEAD@{32}: checkout: moving from main to eiffel-tower
+[33m09e17df[m[33m ([m[1;31morigin/master[m[33m)[m HEAD@{33}: Branch: renamed refs/heads/master to refs/heads/main
+[33m09e17df[m[33m ([m[1;31morigin/master[m[33m)[m HEAD@{35}: commit: dodaj plik .gitignore
+[33mdf7ce01[m HEAD@{36}: merge css: Fast-forward
+[33m90ea807[m HEAD@{37}: checkout: moving from css to master
+[33mdf7ce01[m HEAD@{38}: checkout: moving from dd46408ac3dec413ac535def8a85acabbbf92be5 to css
+[33mdd46408[m[33m ([m[1;33mtag: [m[1;33mINDEX[m[33m)[m HEAD@{39}: checkout: moving from css to INDEX
+[33mdf7ce01[m HEAD@{40}: checkout: moving from master to css
+[33m90ea807[m HEAD@{41}: checkout: moving from 463bb468a187fef6726692494d7fe971d1879466 to master
+[33m463bb46[m[33m ([m[1;33mtag: [m[1;33mreadme[m[33m)[m HEAD@{42}: checkout: moving from dd46408ac3dec413ac535def8a85acabbbf92be5 to 463bb46
+[33mdd46408[m[33m ([m[1;33mtag: [m[1;33mINDEX[m[33m)[m HEAD@{43}: checkout: moving from master to INDEX
+[33m90ea807[m HEAD@{44}: checkout: moving from 463bb468a187fef6726692494d7fe971d1879466 to master
+[33m463bb46[m[33m ([m[1;33mtag: [m[1;33mreadme[m[33m)[m HEAD@{45}: checkout: moving from dd46408ac3dec413ac535def8a85acabbbf92be5 to readme
+[33mdd46408[m[33m ([m[1;33mtag: [m[1;33mINDEX[m[33m)[m HEAD@{46}: checkout: moving from master to INDEX
+[33m90ea807[m HEAD@{47}: checkout: moving from css to master
+[33mdf7ce01[m HEAD@{48}: commit: dodaj style css
+[33m90ea807[m HEAD@{49}: checkout: moving from master to css
+[33m90ea807[m HEAD@{50}: commit: dodaj strukture strony
+[33mdd46408[m[33m ([m[1;33mtag: [m[1;33mINDEX[m[33m)[m HEAD@{51}: commit: dodaj index.html
+[33m463bb46[m[33m ([m[1;33mtag: [m[1;33mreadme[m[33m)[m HEAD@{52}: commit (initial): dodaj readme.md
